@@ -11,6 +11,8 @@ Beams:eCM = 8000.       ! CM energy of collision
 HardQCD:all = on        ! All hard QCD processes are on,
 PhaseSpace:pTHatMin = 50.
 
+! PartonShowers:model=1
+
 ! 2) Settings related to the run
 Main:numberOfEvents = 200          ! number of events to generate
 Init:showChangedSettings = on      ! list changed settings
